@@ -6,7 +6,7 @@ output: html_document
 # Thesis
 
 ## Intro
-stuff
+this is *really* **really** cool stuff
 
 ## Methods
 
