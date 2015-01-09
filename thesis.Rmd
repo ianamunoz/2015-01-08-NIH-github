@@ -31,6 +31,9 @@ print(results)
 print("hello")
 ```
 
+```{r}
+plot(cars)
+```
 
 ## Discussion
 things
