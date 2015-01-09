@@ -8,6 +8,8 @@ output: html_document
 ## Intro
 this is *really* **really** cool stuff
 
+`print("hello")`
+
 ## Methods
 
 - get item 1
@@ -18,5 +20,20 @@ this is *really* **really** cool stuff
 2. do 2
 1. do 3
 
+## results
+```{r}
+# knitr stuff is cool
+results <- c(1, 2, 3, 4, 5)
+print(results)
+```
+
+```{r}
+print("hello")
+```
+
+
 ## Discussion
 things
+
+
+
